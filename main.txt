@@ -1,1 +1,1 @@
-This is a presentation for git.
+This is a workshop for git.
